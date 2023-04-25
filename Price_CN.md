@@ -1,6 +1,3 @@
-# TikHub
-TikHub Introduction and Price
-
 # TikHub REST API 价格列表
 > 在以下价格表中已经应用了折扣
 ## 个人月度价格（充值就送200免费请求！）
